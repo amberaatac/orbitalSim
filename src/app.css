@@ -1,0 +1,15 @@
+:root{
+    --blue: blue;
+}
+
+::selection {
+    background: var(--blue);
+    /* WebKit/Blink Browsers */
+}
+
+::-moz-selection {
+    background: var(--blue);
+    /* Gecko Browsers */
+}
+:global(body) {
+}
