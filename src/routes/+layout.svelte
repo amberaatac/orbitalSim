@@ -63,7 +63,8 @@
   }
   img {
     margin: 1rem;
-    width: 100px;
+    width: 5vh;
+  
   }
   a:hover {
     transition: all ease-in-out 200ms;
