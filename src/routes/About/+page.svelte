@@ -5,11 +5,13 @@
 <div>
   <div class="text">
     <p>
-      This is a website to show xyz
-
+      Hello I am Amber Aatac, a student at UC Berkeley. If you want to find out more about me you can find <a class="atxt" href="https://amberaatac.github.io/">here</a>. 
+      <br> 
+      <br> 
+      The github for this project can be found at the link below, feel free to contribute and fix my terrible code.
     </p>
   </div>
-  <div><a><img src={gh} /></a></div>
+  <div><a href="https://github.com/amberaatac/orbitalSim"><img src={gh} /></a></div>
 </div>
 
 <style>
@@ -21,7 +23,15 @@
     margin: auto;
   }
   .text{
-    margin: 10rem;
+    margin: 10%;
     margin-bottom: 1rem;
+  }
+  img{
+    background-color: none;
+  }
+  .atxt {
+    background-color: var(--blue);
+    text-decoration: none;
+    color: black;
   }
 </style>
