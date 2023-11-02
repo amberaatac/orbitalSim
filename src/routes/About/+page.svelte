@@ -5,7 +5,7 @@
 <div>
   <div class="text">
     <p>
-      Hello I am Amber Aatac, a student at UC Berkeley. If you want to find out more about me you can find <a class="atxt" href="https://amberaatac.github.io/">here</a>. 
+      Hello I am Amber Atac, a student at UC Berkeley. If you want to find out more about me you can check out my website! <a class="atxt" href="https://amberaatac.github.io/">here</a>. 
       <br> 
       <br> 
       The github for this project can be found at the link below, feel free to contribute and fix my terrible code.
